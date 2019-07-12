@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc_4">About ALC 4</string>
+    <string name="name">KENDRA HAMMOND</string>
+    <string name="ghana">Country:  Ghana</string>
+    <string name="welcome_to_alc_4_0">WELCOME TO ALC 4.0</string>
+    <string name="email">Email:  hammondkendra9@gmail.com</string>
+    <string name="phone_number">Phone Number:  233240278633</string>
+    <string name="username">Slack Username:  @kyndaline</string>
+    <string name="track">Track: Android</string>
+    <string name="my_image">my image</string>
+    <string name="title_activity_about">About ALC 4</string>
+    <string name="title_activity_profile">My Profile</string>
+</resources>
